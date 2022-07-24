@@ -1,4 +1,4 @@
-# doorlockpic
+# Door Lock System PIC
 
 ## Objective
 Design lock door system which uses a keypad for entering the password, servo to rotate the door and lcd to ask for pin and print the feedback.
